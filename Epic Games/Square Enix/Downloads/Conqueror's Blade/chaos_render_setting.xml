@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<render_setting>
+  <render_system>D3D11</render_system>
+  <is_fullscreen>0</is_fullscreen>
+  <monitor_index>0</monitor_index>
+  <is_vsync>1</is_vsync>
+  <frame_rate>60</frame_rate>
+  <window_width>1920</window_width>
+  <window_height>1080</window_height>
+  <shadow>1</shadow>
+  <texture>1</texture>
+  <terrain>1</terrain>
+  <vegetation>1</vegetation>
+  <model>1</model>
+  <particle>1</particle>
+  <anisotropic_filter>4</anisotropic_filter>
+  <antialias>3</antialias>
+  <ao>1</ao>
+  <nv_debug>1</nv_debug>
+  <dof>0</dof>
+  <motion_blur>0</motion_blur>
+  <game_actor_lod>1</game_actor_lod>
+  <go_lod>1</go_lod>
+  <physics>1</physics>
+  <setting_level>1</setting_level>
+  <sun_shaft_level_node>1</sun_shaft_level_node>
+  <out_line>1</out_line>
+  <camera_transparent>1</camera_transparent>
+  <gamma_scale>1.000000</gamma_scale>
+</render_setting>

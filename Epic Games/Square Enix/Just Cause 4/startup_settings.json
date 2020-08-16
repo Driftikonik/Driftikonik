@@ -1,0 +1,10 @@
+{
+    "GraphicsTextureQuality": 2,
+    "DisplayWindowType": 2,
+    "DisplayFullscreenWidth": 1280,
+    "DisplayFullscreenHeight": 720,
+    "DisplayRefreshRateNumerator": 0,
+    "DisplayRefreshRateDenominator": 0,
+    "DisplayVSync": 1,
+    "DisplayGamma": 50
+}
